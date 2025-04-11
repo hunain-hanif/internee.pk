@@ -1,0 +1,177 @@
+.img-fluid{
+    height: 40px !important;
+    width: 150px !important;
+}
+
+.header-control {
+    margin-top: 10px !important;
+    margin-bottom: 10PX !important ;
+    margin-left: 20px;
+}
+
+.navbar-nav {
+    margin-left: 30px !important;
+}
+
+
+.form-control {
+    width: 700px !important;
+    margin-right:0px !important ;
+}
+
+.btn {
+    height: 40px !important;
+    margin-left: 5px !important;
+    width: 80px;
+}
+
+.form-control {
+    margin-right: 150px !important;
+}
+
+
+.card-img-overlay {
+     margin-top: 170px !important ;
+     margin-left: 10px !important ;
+}
+
+.card-title {
+    text-transform: capitalize !important ;
+    
+}
+
+.card-text {
+    font-size: large;
+}
+
+.container {
+    background-color: #009726; 
+}
+
+.column-parent {
+    background-color: #009726;
+}
+
+.column-3 {
+    padding-top: 20px;
+    margin-left: 80px;
+}
+
+.list-card {
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 215px !important;
+}
+
+.card-text {
+    padding-top: 30px !important;
+    
+}
+
+.list-btn {
+    background-color: #009726 !important;
+    width: 150px !important;
+}
+
+.course-list-parent {
+    margin-bottom: 100px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+    background-color: #f8f9fa;
+    border-top: 1px solid #e0e0e0;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+}
+
+.footer-logo {
+    height: 40px; /* Adjust the size as needed */
+    margin-right: 10px;
+}
+
+.footer-text {
+    font-size: 16px;
+    color: #333;
+    padding-left: 20px;
+}
+
+.footer-links {
+    display: flex;
+    gap: 20px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+    }
+    
+    footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background-color: #f8f9fa;
+        border-top: 1px solid #e0e0e0;
+        padding-top: 50px !important;
+    }
+    
+    .footer-content {
+        display: flex;
+        align-items: center;
+        margin-top: 50px !important;
+    }
+    
+    .footer-logo {
+        height: 40px; /* Adjust the size as needed */
+        margin-right: 10px;
+    }
+    
+    .footer-text {
+        font-size: 16px;
+        color: #333;
+    }
+    
+    .footer-links {
+        display: flex;
+        gap: 20px;
+        color: #333;
+    }
+    
+    .footer-links a {
+        text-decoration: none;
+        color: #333 !important;
+        font-size: 14px;
+    }
+    
+    .footer-links a:hover {
+       text-decoration: #333;
+    }
+    
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.img-heading {
+    font-size: 48px !important;
+}
+
+.img-text {
+      font-size: 20px !important;
+}
